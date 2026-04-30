@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am enthusiastic coder interested in problem solving and UI developments<br>
+I am an enthusiastic coder interested in problem solving and UI developments.<br>
 
 
 ## 🌐 Socials:
